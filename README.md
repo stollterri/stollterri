@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stollterri
 - 👀 I’m interested in Reading, Learning and Problem-Solving.
-- 🌱 I’m currently learning to code. 
+- 🌱 I’m currently learning to become a Software Developer. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, please email me at stollterri47@gmail.com.
 - 😄 Pronouns: She/her/hers
